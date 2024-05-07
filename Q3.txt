@@ -1,0 +1,12 @@
+Ques: How much space does following data types take ?
+
+int
+bool
+float
+
+Answer
+int-> 4byte
+bool-> 1byte
+float-> 8byte
+
+
